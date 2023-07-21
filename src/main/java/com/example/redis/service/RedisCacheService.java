@@ -1,4 +1,4 @@
-package com.example.redis.config.service;
+package com.example.redis.service;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.cache.annotation.CacheEvict;

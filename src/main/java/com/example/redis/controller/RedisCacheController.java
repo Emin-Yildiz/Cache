@@ -1,6 +1,6 @@
 package com.example.redis.controller;
 
-import com.example.redis.config.service.RedisCacheService;
+import com.example.redis.service.RedisCacheService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
